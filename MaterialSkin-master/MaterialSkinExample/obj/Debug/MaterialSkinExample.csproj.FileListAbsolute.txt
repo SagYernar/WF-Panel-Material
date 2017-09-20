@@ -1,0 +1,13 @@
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.exe.config
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.exe
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.pdb
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkin.dll
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkin.pdb
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csprojResolveAssemblyReference.cache
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.MainForm.resources
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.Properties.Resources.resources
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csproj.GenerateResource.Cache
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csproj.CoreCompileInputs.cache
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.exe
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.pdb
+C:\Users\Ернар\Desktop\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.UserControl1.resources
